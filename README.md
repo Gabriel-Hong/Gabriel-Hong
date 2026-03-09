@@ -1,1 +1,1 @@
-C++ Software Engineer | AI Agent Systems | Building high-performance software
+AI Agent Engineer | LLM Fine-tuning · RAG · Tool Calling | Multi-Agent Systems
