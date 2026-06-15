@@ -1,1 +1,1 @@
-AI Agent Engineer | LLM Fine-tuning · RAG · Tool Calling | Multi-Agent Systems
+AI Engineer · 6yrs in C++ engineering software, now building production LLM systems — RAG · Fine-tuning · Multi-Agent · MCP
